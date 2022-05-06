@@ -13,6 +13,7 @@ for (int i = 0; i < arr.Length; i++)
     if (m>0)
     count=count+1;
     // Console.Write(sum );
-    // // Console.Write(arr[i] + ",");
+    // Console.Write(arr[i] + ",");
+    // Console.Write(count);
 }
  Console.Write(count);
